@@ -1,0 +1,257 @@
+Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from Gravatar.Hello Oliver, 
+
+Thank you for using EventPrime! 
+
+We’re happy to share that we’ve received this inquiry via our support forum, and it has been successfully resolved by our team..
+
+If you have any further questions, please feel free to contact us. 
+We are always here to assist you.Hello Adrian, 
+
+Thank you for using EventPrime! 
+
+We’re happy to share that we’ve received this inquiry via our support forum, and it has been successfully resolved by our team..
+
+If you have any further questions, please feel free to contact us.Hello Sean, 
+ 
+Thank you for reaching out! 
+ 
+We appreciate your feedback and want to clarify that the 'Events' label in the installed plugins section is intentional. We take pride in our brand, and the 'Events' label is used as a concise and representative name for our EventPrime plugin. Our focus is on delivering a top-notch event management experience, and we appreciate your understanding of our branding approach. 
+ 
+Regarding your inquiry about setting up an event and paying through the site, we're happy to share that we've received this inquiry via our support forum, and our team has already taken care of it. 
+ 
+If you have any further questions, please feel free to contact us.Hello Bruce, 
+ 
+Thank you for using EventPrime! 
+ 
+We are delighted to inform you that the support ticket you submitted regarding the mentioned WooCommerce issue on our support forum has been successfully resolved by our team.
+ 
+If you require further assistance, please feel free to contact us. 
+Our team is ready to assist you promptly.Hello, 
+
+Thank you for reaching out! 
+
+We would like to inform you that the sequence of checkout fields displayed under the "Event Settings" meta-box on the "Edit Event" page corresponds directly to their creation order under the "Checkout Fields" tab in the "Events -> Settings" sub-menu. 
+
+That being said, we would like to share that we have taken note of the requested feature to order the checkout fields and we will conduct a detailed assessment of your request for a possible inclusion in the system. We will mention the feature in the change log on our plugin page at WordPress.Org, once it's available. 
+
+If you have any further questions, please​ don't hesitate to contact us. 
+​Always happy to help!Hello,
+
+Our apologies for the inconvenience caused.
+
+We would like to bring to your attention that we recently migrated the products to dedicated sites to allow for better license management. You may access the latest updates as follows:
+
+	Visit the dedicated site for EventPrime at https://theeventprime.com/ 
+
+	Navigate to the “My Account” section on the website. 
+
+	Log in using your credentials (Username or Password). 
+
+	Click on the “Orders” tab to view your purchase history. 
+
+	Locate the specific order for EventPrime Business and click on “View Order Details.” 
+
+	Within the order details, you’ll find the option to download the purchased extensions and view your license key. 
+
+
+If you need any further clarification, please don’t hesitate to reach out to us.
+Always happy to help!Hello, 
+
+Thank you for using EventPrime! 
+
+Currently, this feature is unavailable. However, we have taken note of your suggestion and have added it to our roadmap for consideration. While we can't provide a specific timeline for implementation as feature development is prioritized based on user demand, rest assured that your input is valued. 
+
+We'll make sure to include any updates regarding this feature in the change log on our plugin page at WordPress.org once it becomes available. 
+We appreciate your feedback and thank you for considering our plugin.Hello, 
+
+Please verify that the 'Enable WooCommerce Checkout' setting is switched on under 'Event -> Settings -> Extensions.' After activation, you should find the 'WooCommerce Checkout' meta-box visible on the 'Edit Event' page.
+
+If the issue persists, we will need more information to provide the best possible solution. Please get in touch with us directly using this form.Hello, 
+
+Thank you for using EventPrime! 
+
+Currently, this feature is unavailable, however, we are pleased to inform you that we will conduct a detailed assessment of your request for a possible inclusion in the system.Hello,
+
+You say "You must use the same email address for creating an account on Zoom that you used for your WordPress admin." Can it be any admin user or does it have to be the administration email address entered on wp-admin/options-general.php ?Hi,
+
+I have the same issue. My license key for "EventPrime Extended" is no an option in the dropdown to activate. Tried all possible bundles and products from the drop down, but none activates my license again. It all worked fine until the 31st of January.
+Raised a support ticket already.
+
+Please let me know urgently how to activate my license, thank you!
+OliverI've purchased the plug and the extension from Metagauss but cannot download the latest extensions - can you help?Hi Team,
+I have installed EventPrime – Modern Events Calendar, Bookings and Tickets and EventPrime Woocommerce Integration plugin. The licence has been activated and is enabled. In WooCommerce, appropriate payment types have been enabled. There is not an option on the event page to enable WooCommerce Checkout. 
+Have I missed something obvious or do I need to have a different licence from the free version.
+Best regards
+BruceThank you for reaching out! 
+
+We are in the process of creating comprehensive documentation specifically for checkout fields, which will be made available soon. In the interim, you can refer to our Starter Guide where you'll find relevant information under the fifth point (Checkout Fields) within the section titled "Creating A New Event" and some additional details under the "Settings" section. 
+
+If you have any further questions or need assistance, feel free to contact us. 
+We are here to ensure that your experience with EventPrime is smooth and well-informed.Hello, 
+
+Thank you for using EventPrime! 
+
+The fundamental booking process corresponds to creating tickets natively or opting for third-party bookings where the visitor will be redirected to the provided URL. 
+
+In the case of the “EventPrime WooCommerce Checkout” extension, the chosen event’s tickets are added to the cart( you do not need to create a ticket as a WooCommerce product ) and the checkout process will be delegated to the standard WooCommerce checkout process allowing you to utilize the payment gateways configured in the WooCommerce plugin. 
+
+I hope this provides clarity on the matter. 
+If you need further clarification or require additional information, please feel free to contact us. 
+Always happy to help!Hello, 
+
+Thank you for using EventPrime! 
+
+We are pleased to announce that this feature has already been included in the plugin, you can locate the “Duplicate Event” option listed under the “Bulk actions” drop-down menu on the “All Events” page.Hello, 
+
+Thank you for reaching out to us! 
+ 
+We would like to inform you that our plugin offers two options pertaining to the booking functionality you can either choose to create tickets natively or opt for third-party bookings where the visitors will be redirected to the provided URL. 
+
+When the “WooCommerce Integration” extension is installed and activated, you are empowered with extra capabilities to add optional and/ or mandatory products to your events which will be exhibited during the checkout process. 
+For more details please visit this URL - https://theeventprime.com/all-extensions/woocommerce-integration/ 
+
+If you require further clarification or additional information, please feel free to contact us.Hello, 
+
+Our apologies for the inconvenience caused. 
+
+We would like to bring to your attention that we recently migrated the products to dedicated sites to allow for better license management. You may access the latest updates as follows:
+
+	Visit the dedicated site for EventPrime at  https://theeventprime.com/ 
+
+	Navigate to the "My Account" section on the website. 
+
+	Log in using your credentials (Username or Password). 
+
+	Click on the "Orders" tab to view your purchase history. 
+
+	Locate the specific order for EventPrime Business and click on "View Order Details." 
+
+	Within the order details, you'll find the option to download the purchased extensions and view your license key. 
+
+
+If you need any further clarification, please don't hesitate to reach out to us. 
+Always happy to help!Hello, 
+
+Thank you for using EventPrime! 
+
+We are pleased to inform you that you can utilize our “Stripe Payments” extension which can be seamlessly integrated with our plugin. 
+Simply acquire your secret and publishable keys from Stripe by visiting this URL, and include these keys in the settings of the Stripe extension.
+
+I hope this helps!Hello, 
+
+Thank you for reaching out to us! 
+
+We are pleased to inform you that you can utilize the custom dates option situated under the “Repeat” section in the “Event Settings”. 
+Through this feature, you can choose the specific dates you want to repeat the event by selecting them from the calendar pop-up. 
+
+I hope this helps!Hello,
+ 
+Thank you for reaching out!
+ 
+We would like to bring to your attention that the mentioned shortcode syntax for the Event Types( [em_event_type id=”x”] ) is not offered by us, however, you can refer to the Event’s id in the [em_event] shortcode which will produce the content of the single event page for the respective event ID. 
+
+To explore all the offered shortcodes and their syntax, please navigate to the “Events -> Shortcodes” sub-menu where you will find a list of all the available shortcodes.Hello,
+ 
+Thank you for reaching out. We have rechecked the performer’s display on our end and it is shown as expected. 
+ 
+To better assist you and efficiently address the issue, could you please write to us on our support forum? By providing more details and accessing your specific case, we'll be able to offer a tailored solution and ensure your performers are displayed exactly as you desire. 
+Our support team is ready to assist you promptly. 
+Thank you for your understanding, and we look forward to resolving this matter for you.Hello, 
+
+Thank you for reaching out to us! 
+
+Currently, this feature is unavailable, however, we are pleased to inform you that this exists in our pipeline and will be incorporated into the system with our upcoming releases.I wonder when the option will be released, I am entering our events for 2024 and a lot are copiesHello.
+The WC Checkout is not showing up in my plugin even when installed - what can i do to find out why?Hello,
+is it possible to order individually the views of event-types?
+
+Kind regardsDo the attendee names link to their profile, or can this be done - so I could send a message to a chosen attendee through a link to their profile?Whats the difference between bookings to events and using WooCommerce? Do we set up the ticket to attend an event as a WooCommerce product?Where is the documentation for the checkout fields?What's the difference between Booking and the WooCommerce Integration?HOW DO I SET UP STRIPE PAYMENT?I've gone through this convoluted process multiple times having purchased a bundle of plugins from you and I still cannot access my license keys.Is it possible to customise the dates of a recurring event eg sometimes the interval between events is more or less than the usual regular interval due to holidays or other considerations? Is it possible to choose the dates individually without having to add a new event each time?Hello, my shortcode [em_event_type id=”x”] does not work. The generic does work [em_events] I am using Wordpress with Elementor. Could you help me, please? Thank you.Hello, I have a problem with the display of my performers. The date and title appear at the top and their image is show twice. Below all that there is the description of the person like the demo, but I would like to be able to have exactly the same thing as on the demo without the unnecessary date, title and photo. Can you help me?
+THANKS!It is not possible to influence the arrangement of the fields. This is extremely inappropriate! The least important fields are at the top, while the name, for example, is at the bottom. The width or number of fields in a row that cannot be influenced is the lesser evil. In any case, the result looks very unprofessional! Ich hoffe, dass ich vielleicht etwas übersehen habe ...I bought and have the EventPrime plugin installed, yet in the installed plugins it says "Events" and not "Event Prime"; I have the Woocommerce extension installed, yet I don't see the screens you show above. How do I enable the ability to set a price to register and attend an event and pay through the site?Hello, 
+
+Thanks for using EventPrime. 
+
+We're pleased to inform you that the Zapier registration for EventPrime has been submitted. It is currently in the approval queue at Zapier, and we anticipate it to be processed soon.Hello Brian, 
+
+Thanks for using EventPrime! 
+
+This issue might be due to some local script conflict. We will be glad to further look into it, and we highly recommend opening a support ticket with relevant details here: Support - EventPrimeis it possible to show only the next occurrence of a recurring event in the list view? I don't like having a list view that is full of the same event each week.Is this working on Zapier yet?  I uploaded the integration, but I do not see how to connect it in Zapier. EventPrime does not come up as an option.I went through these steps to activate the free version.  The validity is not showing.  Further the test event we added to the site does not populate into the events page. If we can test this system out we will be purchasing premium features.Hello, 
+
+Thanks for using EventPrime. 
+
+Yes, a website user can conveniently add an event from the frontend through our frontend event submission form. This page is auto-generated when you install and activate EventPrime. 
+Upon successful event submission, the event will be saved in a draft state in the backend which the admin can review & publish. 
+
+The approved events can be located under the “My Events” section on the "User Profile" page.Hello Imran,
+ 
+We hope you are doing great!
+ 
+We have comprehensively reviewed your website and could not locate a running instance of EventPrime. 
+Can you please check and verify whether EventPrime is activated or not? 
+ 
+We will be more than happy to investigate and resolve the issue for you.Hi
+ 
+Is it possible to add events from the frontend? For eg. can the website user add an event from the frontend?
+
+Thanksmy add to cart button is not redirecting to the checkout page
+it is directly redirecting to the add to cart page of woocommerceHi Arthur,
+ 
+Thanks for using EventPrime
+ 
+Yes, you can utilize this shortcode: [em_events types="1,2,…" ].
+ 
+Here, you can specify Event-Types IDs in a comma-separated format.Hi Kay,
+ 
+Thanks for using EventPrime.
+ 
+At present, the Zapier App is not public. We have already submitted it to the Zapier team.
+
+They are currently reviewing it.
+
+We will update once it is public.Hi Phil,
+
+Thanks for using EventPrime.
+
+The issue has been resolved and included in the next maintenance release.I've bought this extension and after finally finding these instructions I have it working. However, your instructions say:
+
+'Frontend
+On the checkout page, you will notice an Add to Cart option INSTEAD of the usual Checkout.......'
+
+But what actually happens is that it shows the ADD TO CART option AND the CHECKOUT option (not instead) I think this makes it confusing for the customer. You would think that Checkout and Add to Cart would both take you through WooCommerce as that's how WooCommerce works.
+
+I tried switching off PayPal to see if the checkout option disappeared but it didn't. I only want to offer payments through WooCommerce, is this possible?
+
+It need to be really straight forward and at the moment having Add to Cart and Checkout options which use different payment methods will be confusing for people.
+
+PhilHi Arthur, EventPrime works with Divi builder through shortcodes. We will soon support Divi modules.Hello there,
+
+How to integrate Eventprime with Divi? using shortcode or dedicated Divi module?
+
+Thanks
+ArthurHello there,
+
+Is it possible to preset a filter with shortcode [em_events]? for example [em_events event_type="Training"], or [em_events event_type_id=27]
+
+ArtHello Larry,
+
+Thanks for your feedback. We will add the 'Duplicate' option in the action links in our upcoming releases.Hello Lee,
+
+Yes, this shortcode is related to the Venue.Hello Larry,
+
+Yes, you can hide the wishlist icon from the front end.
+
+Go to EventPrime's Settings -> click on the 'General' tab -> click on the 'Setup' subtab.
+
+Find the 'Hide Wishlist Icon' option. Enable this to hide this and save the settings.Hello Paul,
+
+You will get all of your extensions from your EventPrime account. Login to your EventPrime account from here.
+
+After login you will see your order details. Click on the 'View Details and Downloads' link. On the next page you will get all of your extensions and their license keys.
+
+Click on the extension and the .zip file will be available to download. Upload it to your plugin's area and activate it.I have purchased the bundle but the additional extensions are not showing in wordpressEventPrime is not showing among the available apps on Zapier🤷🏽‍♀️Is there a way to disable the wishlist feature?  It is not appropriate for my website.Nice to have this feature.  Very useful.
+
+It would be even easier if, when you hovered over an event, the options included "duplicate" along with the "Edit|Quick Edit|Trash|View".
+
+And, after publishing an event, if there was a duplicate button on the edit event screen.What is an Event Site ([em_event_site id=”x”])? 
+
+A Venue? Or is this legacy for an older plugin?
